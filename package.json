@@ -1,7 +1,5 @@
 {
   "name": "tic-tac-toe",
-  "description": "A simple and fun online Tic Tac Toe game with PvP and AI modes. Play against friends or challenge the AI in this classic game.",
-  "author": "FlowFalcon",
   "version": "1.0.0",
   "main": "server.js",
   "engines": {
@@ -12,7 +10,6 @@
     "dev": "node server.js"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.4.1",
     "express": "^4.18.2",
     "socket.io": "^4.7.4"
   }
