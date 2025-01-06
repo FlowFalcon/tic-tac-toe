@@ -43,7 +43,7 @@ npm start
 
 ## Project Structure
 ```
-project/
+tic-tac-toe
 ├── package.json
 ├── server.js
 └── public/
