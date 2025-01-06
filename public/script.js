@@ -13,6 +13,14 @@ socket.on('connect', () => {
     console.log('Connected to server');
 });
 
+let step = "defaultValue"; // Deklarasi sebelum digunakan
+console.log("AI memilih langkah:", step);
+let gameMode = null; // Deklarasi awal
+function selectMode(mode) {
+    gameMode = mode;
+}
+
+
 function selectMode(mode) {
     gameMode = mode;
     document.querySelectorAll('.mode-btn').forEach(btn => {
