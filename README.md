@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tic+Tac+Toe+PvP;Please+Give+Star)](https://git.io/typing-svg)
+
 # Tic Tac Toe Online Battle
 
 A simple and fun online Tic Tac Toe game with PvP and AI modes. Play against friends or challenge the AI in this classic game.
@@ -17,8 +19,6 @@ A simple and fun online Tic Tac Toe game with PvP and AI modes. Play against fri
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Real-time Communication:** Socket.IO
-- **Deployment:** Vercel
-
 
 ## Installation
 
@@ -40,23 +40,11 @@ npm start
 
 4. Open `http://localhost:3000` in your browser
 
-## Deployment
-
-This project is configured for deployment on Vercel. To deploy:
-
-1. Push your code to GitHub
-2. Import your repository in Vercel
-3. Configure build settings:
-   - Framework Preset: Other
-   - Build Command: `npm install`
-   - Output Directory: `public`
-   - Install Command: `npm install`
 
 ## Project Structure
 ```
 project/
 ├── package.json
-├── vercel.json
 ├── server.js
 └── public/
     ├── index.html
@@ -76,7 +64,6 @@ Feel free to submit issues and pull requests.
 ## Acknowledgments
 
 - Socket.IO for real-time communications
-- Vercel for hosting
 - Express.js team
 
 ## Contact me
