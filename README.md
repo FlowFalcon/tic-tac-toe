@@ -68,10 +68,10 @@ Feel free to submit issues and pull requests.
 
 ## Contact me
 
-Tiktok : [@flow.falcon](https://tiktok.com/@flow.falcon)
-Email : [flowfalcon33@gmail.com](mailto:flowfalcon33@gmail.com)
-WhatsApp : [+62 817-7924-7472](https://wa.me/6281779247472)
-WhatsApp Channel : [FlowFalcon](https://whatsapp.com/channel/0029VasjrIh3gvWXKzWncf2P)
+- Tiktok : [@flow.falcon](https://tiktok.com/@flow.falcon)
+- Email : [flowfalcon33@gmail.com](mailto:flowfalcon33@gmail.com)
+- WhatsApp : [+62 817-7924-7472](https://wa.me/6281779247472)
+- WhatsApp Channel : [FlowFalcon](https://whatsapp.com/channel/0029VasjrIh3gvWXKzWncf2P)
 
 ---
 Made with ❤️ by [FlowFalcom](https://flowfalcon.xyz)"# tic-tac-toe" 
