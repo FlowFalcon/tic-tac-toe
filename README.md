@@ -20,6 +20,9 @@ A simple and fun online Tic Tac Toe game with PvP and AI modes. Play against fri
 - **Backend:** Node.js, Express.js
 - **Real-time Communication:** Socket.IO
 
+## Live Demo 🌐 
+[Tic-Tac-Toe](https://tic-tac-toe.flowfalcon.xyz)
+
 ## Installation
 
 1. Clone the repository:
